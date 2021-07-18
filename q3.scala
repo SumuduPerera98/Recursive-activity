@@ -8,6 +8,7 @@ object e3{
   }
   def main(args:Array[String]):Unit ={
     print(addition(8));
+
   }
 }
 
